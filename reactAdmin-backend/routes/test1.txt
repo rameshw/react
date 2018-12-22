@@ -1,0 +1,6 @@
+au_uat -> 1.23
+au_prod -> 1.24
+au_pilot -> 1.25
+hk_uat -> 1.23
+hk_prod -> 1.24
+hk_pilot -> 1.25
